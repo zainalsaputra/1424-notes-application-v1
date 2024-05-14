@@ -27,7 +27,8 @@ class headerBar extends HTMLElement {
             }
             
             nav .logo img {
-                width: 250px;
+                min-width: 200px;
+                width: 20%;
                 margin: 0 0 0 35px;
             }
         `;

@@ -22,8 +22,6 @@ class footerBar extends HTMLElement {
                 color: rgb(100 116 139);
                 background-color: #000000;
                 text-align: end;
-                font-weight: 500;
-                font-size: 0.9rem;
             }
 
             footer p {

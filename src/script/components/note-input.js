@@ -37,6 +37,7 @@ class notesInput extends HTMLElement {
   }
   
   .form-wrapper h1 {
+      font-size: 2em;
       text-align: center;
       margin-bottom: 1em;
       font-weight: 800;
@@ -70,7 +71,7 @@ class notesInput extends HTMLElement {
   .form-group button {
     color: black;
     font-weight: 600;
-    font-size: 1rem;
+    font-size: 1.2em;
     line-height: 1.5rem;
     background-color: #ffffff00;
     padding-top: 0.6rem;
